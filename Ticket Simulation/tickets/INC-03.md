@@ -25,7 +25,10 @@ Assesment/Troubleshooting:
 Root cause:
 
     -   Most of the available RAM is being used by background processes
+    ["Task_Manager_Performance"]    Ticket Simulation/screenshots/INC-03/INC-03-Task_Manager_Performance.png
+
     -   There is a lot of Start Up Applications enabled in Task Manager.
+    ["Task_Manager_Performance"]    Ticket Simulation/screenshots/INC-03/INC-03-Task_Manager_Startups.png
 
 Recommended steps:
 
