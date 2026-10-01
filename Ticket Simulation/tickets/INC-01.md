@@ -2,7 +2,7 @@ Ticket ID: 14557455
 
 Date: 01.01.2021
 
-Department/User: Accounting/Bob-Smith
+Department/User: Bob-Smith [Accounting]
 
 Issue description: Network unavailable
 
