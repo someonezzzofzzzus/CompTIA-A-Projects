@@ -9,7 +9,7 @@ Issue description: Network unavailable
 Symptoms: 
 
     -   Searching engine returns page "No Internet"
-    -   Enthernet connection icon on taskbar...
+    -   Enthernet connection icon on taskbar shows "No Internet access"
 
 Assesment/Troubleshooting:
 
