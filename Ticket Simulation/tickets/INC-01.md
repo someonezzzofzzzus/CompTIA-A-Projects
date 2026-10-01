@@ -4,7 +4,11 @@ Date: 01.01.2021
 
 Department/User: Bob-Smith [Accounting]
 
-Issue description: Network unavailable
+Priority: High
+
+Issue description: 
+        User cannot access the Internet, everytime it uses the search engine it returns "No Internet" page
+        No physical changes were made by the user to the PC
 
 Symptoms: 
 
