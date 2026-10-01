@@ -39,7 +39,6 @@ Recommended steps:
 Current Assesment: 
         The system performance is being affected by the high amount of RAM being
         used by background processes and unnecessary startup applications.
-
         Disabling unused startup applications should reduce the number of
         processes running when Windows starts and may improve the overall system
         performance.
