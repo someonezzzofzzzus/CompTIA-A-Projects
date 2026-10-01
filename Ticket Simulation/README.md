@@ -25,10 +25,7 @@ The simulated tickets cover areas such as:
 - Hardware
 - Windows / Operating Systems
 - Networking
-- Printers and peripherals
 - Software and applications
-- Account and access issues
-- Security
 - Performance issues
 
 ## Troubleshooting Methodology
@@ -85,13 +82,14 @@ CompTIA-Aplus-Ticket-Simulation/
 │
 ├── README.md
 ├── tickets/
-│   ├── INC-001.md
-│   ├── INC-002.md
-│   ├── INC-003.md
+│   ├── INC-01.md
+│   ├── INC-02.md
+│   ├── INC-03.md
 │   └── ...
 │
 ├── screenshots/
-│   └── ...
-│
+│   └── INC-01/
+|        └── INC-01...png
+│    ...
 └── documentation/
     └── troubleshooting-methodology.md
