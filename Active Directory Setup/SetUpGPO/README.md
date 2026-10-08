@@ -42,19 +42,21 @@ The objectives of this lab were to:
 -- Create a Group Policy Object
    Using Group Policy Management created Workstation Security Policy in the directory Group Policy Objects
 
--- Configure policy settings 
+-- Configure policy settings:
+
       Password Security:
           Maximum password age: 180 days
           Minimum password age: 1 days
           Minimum password length: 14 characters
           Password must meet complexity requirements
-      ["screenshots/PasswordSettings.png"]
+   ![Password Security](screenshots/PasswordSettings.png)
+
 
 
       Network Security:
          Forced logoff when out of working hours
          Windows Firewall Enabled
-         ["screenshots/SecuritySettingsFirewall.png"]
+  ![Network Security](screenshots/SecuritySettingsFirewall.png)
 
 -- Link the GPO to an Organizational Unit
    Linked Workstation Security Policy to the "Workstations" OU
@@ -62,11 +64,12 @@ The objectives of this lab were to:
 
 -- Force a Group Policy update
    Run command "gpupdate /force" on the client "PC-1"/"PC-2"  to update group policy
-   ["screenshots/gpupdate.png"]
+   ![Verification](screenshots/gpupdate.png)
 
 -- Verify that the policy was successfully applied
    Run command "gpresult /r" on the client "PC-1"/"PC-2"  to verify updated policies applied
-   ["screenshots/gpresult.png"]
+   ![Verification](screenshots/gpresult.png)
+
 
 
 
