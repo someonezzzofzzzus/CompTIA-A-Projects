@@ -71,7 +71,7 @@ The client configuration was verified using:
 ipconfig /all
 ```
 
-![IP Configuration](screenshots/ipconfig-all.png)
+![Ipconfig all](screenshots/ipconfig-all.png)
 
 The output shows the network configuration of PC-2, including its configured DNS server.
 
@@ -95,7 +95,7 @@ DNS resolution was tested using:
 nslookup pc-2.mynetwork.com
 ```
 
-![NSLookup PC-2](screenshots/nslookup-pc-2.png)
+![DNS look up](screenshots/nslookup-pc-2.png)
 
 The successful response demonstrates that the DNS server can resolve:
 
