@@ -16,7 +16,7 @@ Instead of configuring each workstation individually, a GPO allows administrator
 |---|---|
 | Domain Controller | Windows Server |
 | Domain | `mynetwork.com` |
-| Client | `PC-2` | `PC-1` |
+| Client | `PC-2` , `PC-1` |
 | Directory Services | Active Directory Domain Services |
 | Policy Management | Group Policy Management |
 | Target OU | `Workstations` |
