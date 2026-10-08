@@ -10,7 +10,7 @@ The Windows client was unable to join the Active Directory domain.
 - The Domain Controller could not be located.
 - The domain join operation failed.
 
-![Domain Join Failure](screenshots/Issue-2.png)
+![Domain Join Failure](Active Directory Setup/DNS Troubleshooting/issue-1.png)
 
 ## Investigation
 
