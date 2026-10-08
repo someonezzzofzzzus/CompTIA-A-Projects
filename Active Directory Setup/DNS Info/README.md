@@ -15,7 +15,7 @@ The objective of this lab was to configure DNS, create and verify forward and re
 | Component | Details |
 |---|---|
 | DNS Server | Windows Server / Domain Controller |
-| Client | PC-1 | PC-2 |
+| Client | PC-1, PC-2 |
 | Network | `mynetwork.com` |
 | DNS Server | Domain Controller |
 
