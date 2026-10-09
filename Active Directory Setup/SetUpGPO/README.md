@@ -36,11 +36,13 @@ The objectives of this lab were to:
 - Verify that the policy was successfully applied
 - Understand the relationship between Active Directory, OUs, and GPOs
 
--- Oranizational Unit "Workstations"
-   Created Oranizational Unit "Workstations" and moved PC-1 and PC-2 Computers to there
+## Project Execution
+
+-- Oranizational Unit "Workstations"   
+Created Oranizational Unit "Workstations" and moved PC-1 and PC-2 Computers to there
 
 -- Create a Group Policy Object
-   Using Group Policy Management created Workstation Security Policy in the directory Group Policy Objects
+Using Group Policy Management created Workstation Security Policy in the directory Group Policy Objects
 
 -- Configure policy settings:
 
@@ -59,15 +61,15 @@ The objectives of this lab were to:
   ![Network Security](screenshots/SecuritySettingsFirewall.png)
 
 -- Link the GPO to an Organizational Unit
-   Linked Workstation Security Policy to the "Workstations" OU
+Linked Workstation Security Policy to the "Workstations" OU
 
 
 -- Force a Group Policy update
-   Run command "gpupdate /force" on the client "PC-1"/"PC-2"  to update group policy
+Run command "gpupdate /force" on the client "PC-1"/"PC-2"  to update group policy
    ![Verification](screenshots/gpupdate.png)
 
 -- Verify that the policy was successfully applied
-   Run command "gpresult /r" on the client "PC-1"/"PC-2"  to verify updated policies applied
+Run command "gpresult /r" on the client "PC-1"/"PC-2"  to verify updated policies applied
    ![Verification](screenshots/gpresult.png)
 
 
